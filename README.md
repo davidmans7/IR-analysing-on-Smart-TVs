@@ -10,8 +10,12 @@ Within the project, two Arduino libraries are used:
 There are two scripts that read, decode and display IR signals:  
 ######     1. *rcv_IRLremote*: this script uses IRLremote Arduino library (above-mentioned).  
 ######     2. *rcv_IRremote*:  this script uses IRremote Arduino library (above-mentioined).  
-
+  
+######     3. *matrix_guess*:  
 Third script named *matrix_guess* treats to simulate one attack to a Smart TV.  
 Imagine a user seated in front of his LG SmartTV typing on his TV control his Netflix password.  
 QWERTY alphanumeric Netflix on-screen keyboard is supposed to perform this trial:  
+  
 ![Netflix_kb_image](https://image.ibb.co/eCN1kK/netflix_kb.png)
+  
+Script catches IR signals from UP, DOWN, LEFT, RIGHT and OK keys on TV control and treats to guess user data using that Netflix keyboard.
