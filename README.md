@@ -1,4 +1,4 @@
-# IRanalysing_for_SmartTVs
+# IR analysing on Smart TVs
 
 This project is aimed to study infrared communitations, focused on those between TV controls and TVs.  
 Within the project, two Arduino libraries are used:  
