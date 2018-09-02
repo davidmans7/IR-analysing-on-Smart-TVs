@@ -61,13 +61,14 @@ void setup() {
   i = 2;
   j = 4;
 
-  Serial.println("Teclado alfanumérico QWERTY de la plataforma Netflix: \n");
-    for(int q=0;q<ROWS;q++){
-      for(int w=0;w<COLUMNS;w++){
-        Serial.print(kb_qwerty_netflix[q][w]); Serial.print("  ");
-    }
-    Serial.println(""); Serial.println("");
-    }
+  Serial.println("Alphanumeric QWERTY keyboard of Netflix: \n");
+  for(int q=0;q<ROWS;q++){
+    for(int w=0;w<COLUMNS;w++){
+      Serial.print(kb_qwerty_netflix[q][w]); Serial.print("  ");
+  }
+  Serial.println(""); Serial.println("");
+  }
+  Serial.println("[ Cursor begins on initial character \"g\" in the middle of the keyboard ]");
   Serial.println("****************** RECEIVING IR INPUT... ******************\n\n");
 }
 

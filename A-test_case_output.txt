@@ -1,0 +1,291 @@
+Alphanumeric QWERTY keyboard of Netflix: 
+
+1  2  3  4  5  6  7  8  9  0  
+
+q  w  e  r  t  y  u  i  o  p  
+
+a  s  d  f  g  h  j  k  l  -  
+
+-*  *-  z  x  c  v  b  n  m  _  
+
+mis  mis  mis  mis  mis  mis  mis  mis  mis  mis  
+
+-spec  spec-  -@  @-  .  -.com  .com-  -del  del  del-  
+
+[ Cursor begins on initial character "g" in the middle of the keyboard ]
+****************** RECEIVING IR INPUT... ******************
+
+
+2|3  3  8415  57375   Izquierda  -->  (f)
+1|3  3  8415  00765   Arriba     -->  (r)
+
+OK pressed ->  r
+1|3  3  8415  08925   OK
+
+1|2  3  8415  57375   Izquierda  -->  (e)
+
+OK pressed ->  re
+1|2  3  8415  08925   OK
+
+2|2  3  8415  33405   Abajo      -->  (d)
+3|2  3  8415  33405   Abajo      -->  (z)
+4|2  3  8415  33405   Abajo      -->  (mis)
+4|3  3  8415  24735   Derecha    -->  (mis)
+4|4  3  8415  24735   Derecha    -->  (mis)
+4|5  3  8415  24735   Derecha    -->  (mis)
+5|5  3  8415  33405   Abajo      -->  (-.com)
+5|7  3  8415  24735   Derecha    -->  (-del)
+5|0  3  8415  24735   Derecha    -->  (-spec)
+5|9  3  8415  57375   Izquierda  -->  (del-)
+
+OK pressed ->  DELETE letter! ->   r
+5|9  3  8415  08925   OK
+
+5|0  3  8415  24735   Derecha    -->  (-spec)
+4|0  3  8415  00765   Arriba     -->  (mis)
+3|0  3  8415  00765   Arriba     -->  (-*)
+2|0  3  8415  00765   Arriba     -->  (a)
+1|0  3  8415  00765   Arriba     -->  (q)
+1|1  3  8415  24735   Derecha    -->  (w)
+0|1  3  8415  00765   Arriba     -->  (2)
+0|2  3  8415  24735   Derecha    -->  (3)
+
+OK pressed ->  r3
+0|2  3  8415  08925   OK
+
+1|2  3  8415  33405   Abajo      -->  (e)
+2|2  3  8415  33405   Abajo      -->  (d)
+3|2  3  8415  33405   Abajo      -->  (z)
+4|2  3  8415  33405   Abajo      -->  (mis)
+3|2  3  8415  00765   Arriba     -->  (z)
+3|3  3  8415  24735   Derecha    -->  (x)
+3|4  3  8415  24735   Derecha    -->  (c)
+
+OK pressed ->  r3c
+3|4  3  8415  08925   OK
+
+3|5  3  8415  24735   Derecha    -->  (v)
+3|6  3  8415  24735   Derecha    -->  (b)
+3|7  3  8415  24735   Derecha    -->  (n)
+3|8  3  8415  24735   Derecha    -->  (m)
+2|8  3  8415  00765   Arriba     -->  (l)
+1|8  3  8415  00765   Arriba     -->  (o)
+
+OK pressed ->  r3co
+1|8  3  8415  08925   OK
+
+1|7  3  8415  57375   Izquierda  -->  (i)
+1|6  3  8415  57375   Izquierda  -->  (u)
+1|5  3  8415  57375   Izquierda  -->  (y)
+1|4  3  8415  57375   Izquierda  -->  (t)
+1|3  3  8415  57375   Izquierda  -->  (r)
+
+OK pressed ->  r3cor
+1|3  3  8415  08925   OK
+
+2|3  3  8415  33405   Abajo      -->  (f)
+2|2  3  8415  57375   Izquierda  -->  (d)
+
+OK pressed ->  r3cord
+2|2  3  8415  08925   OK
+
+2|3  3  8415  24735   Derecha    -->  (f)
+2|4  3  8415  24735   Derecha    -->  (g)
+2|5  3  8415  24735   Derecha    -->  (h)
+2|6  3  8415  24735   Derecha    -->  (j)
+2|7  3  8415  24735   Derecha    -->  (k)
+1|7  3  8415  00765   Arriba     -->  (i)
+
+OK pressed ->  r3cordi
+1|7  3  8415  08925   OK
+
+2|7  3  8415  33405   Abajo      -->  (k)
+2|6  3  8415  57375   Izquierda  -->  (j)
+3|6  3  8415  33405   Abajo      -->  (b)
+3|5  3  8415  57375   Izquierda  -->  (v)
+3|4  3  8415  57375   Izquierda  -->  (c)
+3|5  3  8415  24735   Derecha    -->  (v)
+3|6  3  8415  24735   Derecha    -->  (b)
+3|7  3  8415  24735   Derecha    -->  (n)
+
+OK pressed ->  r3cordin
+3|7  3  8415  08925   OK
+
+3|6  3  8415  57375   Izquierda  -->  (b)
+2|6  3  8415  00765   Arriba     -->  (j)
+2|5  3  8415  57375   Izquierda  -->  (h)
+1|5  3  8415  00765   Arriba     -->  (y)
+1|6  3  8415  24735   Derecha    -->  (u)
+2|6  3  8415  33405   Abajo      -->  (j)
+2|5  3  8415  57375   Izquierda  -->  (h)
+2|4  3  8415  57375   Izquierda  -->  (g)
+
+OK pressed ->  r3cording
+2|4  3  8415  08925   OK
+
+2|3  3  8415  57375   Izquierda  -->  (f)
+2|2  3  8415  57375   Izquierda  -->  (d)
+3|2  3  8415  33405   Abajo      -->  (z)
+3|1  3  8415  57375   Izquierda  -->  (*-)
+
+OK pressed ->  UPPERCASE enabled
+3|1  3  8415  08925   OK
+
+2|1  3  8415  00765   Arriba     -->  (s)
+2|2  3  8415  24735   Derecha    -->  (d)
+1|2  3  8415  00765   Arriba     -->  (e)
+1|3  3  8415  24735   Derecha    -->  (r)
+1|4  3  8415  24735   Derecha    -->  (t)
+1|5  3  8415  24735   Derecha    -->  (y)
+
+OK pressed ->  r3cordingY
+1|5  3  8415  08925   OK
+
+2|5  3  8415  33405   Abajo      -->  (h)
+2|4  3  8415  57375   Izquierda  -->  (g)
+2|3  3  8415  57375   Izquierda  -->  (f)
+2|2  3  8415  57375   Izquierda  -->  (d)
+2|1  3  8415  57375   Izquierda  -->  (s)
+2|0  3  8415  57375   Izquierda  -->  (a)
+3|0  3  8415  33405   Abajo      -->  (-*)
+
+OK pressed ->  UPPERCASE disabled
+3|0  3  8415  08925   OK
+
+2|0  3  8415  00765   Arriba     -->  (a)
+2|1  3  8415  24735   Derecha    -->  (s)
+2|2  3  8415  24735   Derecha    -->  (d)
+2|3  3  8415  24735   Derecha    -->  (f)
+2|4  3  8415  24735   Derecha    -->  (g)
+1|4  3  8415  00765   Arriba     -->  (t)
+1|5  3  8415  24735   Derecha    -->  (y)
+1|6  3  8415  24735   Derecha    -->  (u)
+1|7  3  8415  24735   Derecha    -->  (i)
+1|8  3  8415  24735   Derecha    -->  (o)
+
+OK pressed ->  r3cordingYo
+1|8  3  8415  08925   OK
+
+1|7  3  8415  57375   Izquierda  -->  (i)
+1|6  3  8415  57375   Izquierda  -->  (u)
+
+OK pressed ->  r3cordingYou
+1|6  3  8415  08925   OK
+
+1|5  3  8415  57375   Izquierda  -->  (y)
+1|4  3  8415  57375   Izquierda  -->  (t)
+1|3  3  8415  57375   Izquierda  -->  (r)
+
+OK pressed ->  r3cordingYour
+1|3  3  8415  08925   OK
+
+1|2  3  8415  57375   Izquierda  -->  (e)
+2|2  3  8415  33405   Abajo      -->  (d)
+2|1  3  8415  57375   Izquierda  -->  (s)
+2|0  3  8415  57375   Izquierda  -->  (a)
+2|9  3  8415  57375   Izquierda  -->  (-)
+2|8  3  8415  57375   Izquierda  -->  (l)
+2|7  3  8415  57375   Izquierda  -->  (k)
+3|7  3  8415  33405   Abajo      -->  (n)
+3|6  3  8415  57375   Izquierda  -->  (b)
+3|5  3  8415  57375   Izquierda  -->  (v)
+3|4  3  8415  57375   Izquierda  -->  (c)
+3|3  3  8415  57375   Izquierda  -->  (x)
+3|2  3  8415  57375   Izquierda  -->  (z)
+4|2  3  8415  33405   Abajo      -->  (mis)
+3|2  3  8415  00765   Arriba     -->  (z)
+3|1  3  8415  57375   Izquierda  -->  (*-)
+
+OK pressed ->  UPPERCASE enabled
+3|1  3  8415  08925   OK
+
+2|1  3  8415  00765   Arriba     -->  (s)
+1|1  3  8415  00765   Arriba     -->  (w)
+1|0  3  8415  57375   Izquierda  -->  (q)
+1|9  3  8415  57375   Izquierda  -->  (p)
+
+OK pressed ->  r3cordingYourP
+1|9  3  8415  08925   OK
+
+2|9  3  8415  33405   Abajo      -->  (-)
+3|9  3  8415  33405   Abajo      -->  (_)
+4|9  3  8415  33405   Abajo      -->  (mis)
+3|9  3  8415  00765   Arriba     -->  (_)
+3|0  3  8415  24735   Derecha    -->  (-*)
+
+OK pressed ->  UPPERCASE disabled
+3|0  3  8415  08925   OK
+
+2|0  3  8415  00765   Arriba     -->  (a)
+
+OK pressed ->  r3cordingYourPa
+2|0  3  8415  08925   OK
+
+2|1  3  8415  24735   Derecha    -->  (s)
+
+OK pressed ->  r3cordingYourPas
+2|1  3  8415  08925   OK
+
+
+OK pressed ->  r3cordingYourPass
+2|1  3  8415  08925   OK
+
+1|1  3  8415  00765   Arriba     -->  (w)
+0|1  3  8415  00765   Arriba     -->  (2)
+0|2  3  8415  24735   Derecha    -->  (3)
+0|3  3  8415  24735   Derecha    -->  (4)
+
+OK pressed ->  r3cordingYourPass4
+0|3  3  8415  08925   OK
+
+1|3  3  8415  33405   Abajo      -->  (r)
+1|4  3  8415  24735   Derecha    -->  (t)
+1|5  3  8415  24735   Derecha    -->  (y)
+1|6  3  8415  24735   Derecha    -->  (u)
+2|6  3  8415  33405   Abajo      -->  (j)
+2|7  3  8415  24735   Derecha    -->  (k)
+3|7  3  8415  33405   Abajo      -->  (n)
+3|8  3  8415  24735   Derecha    -->  (m)
+3|9  3  8415  24735   Derecha    -->  (_)
+4|9  3  8415  33405   Abajo      -->  (mis)
+5|9  3  8415  33405   Abajo      -->  (del-)
+
+OK pressed ->  DELETE letter! ->   r3cordingYourPass
+5|9  3  8415  08925   OK
+
+
+OK pressed ->  DELETE letter! ->   r3cordingYourPas
+5|9  3  8415  08925   OK
+
+
+OK pressed ->  DELETE letter! ->   r3cordingYourPa
+5|9  3  8415  08925   OK
+
+
+OK pressed ->  DELETE letter! ->   r3cordingYourP
+5|9  3  8415  08925   OK
+
+0|9  3  8415  33405   Abajo      -->  (0)
+1|9  3  8415  33405   Abajo      -->  (p)
+0|9  3  8415  00765   Arriba     -->  (0)
+0|8  3  8415  57375   Izquierda  -->  (9)
+0|7  3  8415  57375   Izquierda  -->  (8)
+0|6  3  8415  57375   Izquierda  -->  (7)
+0|5  3  8415  57375   Izquierda  -->  (6)
+0|4  3  8415  57375   Izquierda  -->  (5)
+0|3  3  8415  57375   Izquierda  -->  (4)
+
+OK pressed ->  r3cordingYourP4
+0|3  3  8415  08925   OK
+
+1|3  3  8415  33405   Abajo      -->  (r)
+2|3  3  8415  33405   Abajo      -->  (f)
+2|2  3  8415  57375   Izquierda  -->  (d)
+2|1  3  8415  57375   Izquierda  -->  (s)
+
+OK pressed ->  r3cordingYourP4s
+2|1  3  8415  08925   OK
+
+
+OK pressed ->  r3cordingYourP4ss
+2|1  3  8415  08925   OK
