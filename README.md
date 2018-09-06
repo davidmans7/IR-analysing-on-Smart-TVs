@@ -10,7 +10,7 @@ Within the project, two Arduino libraries are used:
 There are two scripts that read, decode and display IR signals:  
 ######     1. *rcv_IRLremote*: this script uses IRLremote Arduino library (above-mentioned).  
 ######     2. *rcv_IRremote*:  this script uses IRremote Arduino library (above-mentioined).  
-  
+There is also one more third script, quite different from previous two ones:
 ######     3. *matrix_guess*:  
 Third script named *matrix_guess* treats to simulate one attack to a Smart TV.  
 Imagine a user seated in front of his LG SmartTV typing on his TV control his Netflix password.  
