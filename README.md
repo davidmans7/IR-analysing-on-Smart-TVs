@@ -16,6 +16,6 @@ Third script named *matrix_guess* treats to simulate one attack to a Smart TV.
 Imagine a user seated in front of his LG SmartTV typing on his TV control his Netflix password.  
 QWERTY alphanumeric Netflix on-screen keyboard is supposed to perform this trial:  
   
-![Netflix_kb_image](https://image.ibb.co/eCN1kK/netflix_kb.png)
+![Netflix_kb_image](https://raw.githubusercontent.com/davidmans7/IR-analysing-on-Smart-TVs/master/test_cases/netflix_keyboard.jpg)
   
 Script catches IR signals from UP, DOWN, LEFT, RIGHT and OK keys on TV control and treats to guess user data using that Netflix keyboard.
