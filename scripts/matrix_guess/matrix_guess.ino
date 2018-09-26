@@ -146,7 +146,7 @@ void IREvent (uint8_t protocol, uint16_t address, uint32_t command) {
         if (j == COLUMNS-1)
           j = 0;
         else{
-          if(kb_qwerty_netflix[i][j].equals("-spec") || kb_qwerty_netflix[i][j].equals("-@") || kb_qwerty_netflix[i][j].equals("-.com") || kb_qwerty_netflix[i][j].equals("del"))
+          if(kb_qwerty_netflix[i][j].equals("-spec") || kb_qwerty_netflix[i][j].equals("-@") || kb_qwerty_netflix[i][j].equals("-.com"))
             j+=2;
           else if(kb_qwerty_netflix[i][j].equals("-del"))
             j=0;
